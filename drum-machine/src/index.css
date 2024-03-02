@@ -7,3 +7,8 @@
   background-color: #242424;
 
 }
+
+* {
+  padding: 0;
+  margin: 0;
+}

@@ -54,8 +54,14 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <>
-    </>
+    <div className="container" id="drum-machine">
+      <h1>Drum Machine</h1>
+
+      <div className='whole-drum'></div>
+     
+      <div id="display"></div>
+
+    </div>
   )
 }
 
